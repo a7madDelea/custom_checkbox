@@ -137,4 +137,4 @@ This package is licensed under the [MIT License](LICENSE).
 ## 💬 Support
 
 If you like this package, ⭐ **star it on GitHub** to support development!  
-[GitHub Repository →](https://github.com/yourname/custom_checkbox)
+[GitHub Repository →](https://github.com/a7madDelea/custom_checkbox)
