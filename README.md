@@ -64,9 +64,7 @@ CustomCheckBox(
 
 ## 🧱 Example Output
 
-![CustomCheckBox Demo](https://raw.githubusercontent.com/yourname/custom_checkbox/main/screenshots/demo.png)
-
-_(Add a screenshot or GIF of your checkbox in different states for best results)_
+![CustomCheckBox Demo](https://raw.githubusercontent.com/a7madDelea/custom_checkbox/main/screenshots/demo.png)
 
 ---
 
