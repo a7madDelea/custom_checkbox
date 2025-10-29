@@ -1,4 +1,4 @@
-name: custom_checkbox
+name: custom_checkbox_plus
 description: >
   A flexible, animated, and accessible Flutter checkbox widget with full
   control over size, shape, colors, borders, and animation.
