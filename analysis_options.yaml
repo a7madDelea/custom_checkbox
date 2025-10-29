@@ -1,0 +1,31 @@
+# ------------------------------------------------------------------------------
+# analysis_options.yaml
+# Lint configuration for the custom_checkbox Flutter package
+# Ensures clean, documented, and maintainable code 🧩
+# ------------------------------------------------------------------------------
+
+include: package:flutter_lints/flutter.yaml
+
+analyzer:
+  errors:
+    # Treat warnings as errors for stricter quality
+    missing_required_param: error
+    missing_return: error
+    dead_code: warning
+
+linter:
+  rules:
+    # Documentation & readability
+    public_member_api_docs: true
+    sort_constructors_first: true
+
+    # Widgets & const usage
+    use_key_in_widget_constructors: true
+    prefer_const_constructors: true
+    prefer_const_literals_to_create_immutables: true
+
+    # Code safety & style
+    avoid_print: true
+    prefer_final_fields: true
+    avoid_redundant_argument_values: true
+    unnecessary_this: true

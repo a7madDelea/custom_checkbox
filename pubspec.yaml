@@ -1,0 +1,39 @@
+name: custom_checkbox
+description: >
+  A flexible, animated, and accessible Flutter checkbox widget with full
+  control over size, shape, colors, borders, and animation. ♿✨
+
+version: 1.0.0
+
+repository: https://github.com/a7madDelea/custom_checkbox
+issue_tracker: https://github.com/a7madDelea/custom_checkbox/issues
+homepage: https://github.com/a7madDelea/custom_checkbox
+documentation: https://pub.dev/documentation/custom_checkbox/latest/
+
+topics:
+  - checkbox
+  - widget
+  - animation
+  - ui
+  - accessibility
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+  flutter: ">=3.16.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+platforms:
+  android:
+  ios:
+  web:
+  macos:
+  windows:
+  linux:
