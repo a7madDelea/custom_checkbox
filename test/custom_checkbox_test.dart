@@ -1,7 +1,7 @@
 // ignore_for_file: deprecated_member_use
 
 import 'dart:ui';
-import 'package:custom_checkbox_plus/custom_checkbox.dart';
+import 'package:custom_checkbox_plus/custom_checkbox_plus.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_test/flutter_test.dart';

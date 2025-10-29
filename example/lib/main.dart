@@ -1,4 +1,4 @@
-import 'package:custom_checkbox/custom_checkbox.dart';
+import 'package:custom_checkbox_plus/custom_checkbox_plus.dart';
 import 'package:flutter/material.dart';
 
 void main() => runApp(const MyApp());
