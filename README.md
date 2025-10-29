@@ -1,6 +1,6 @@
-# 🧩 custom_checkbox
+# 🧩 custom_checkbox_plus
 
-[![pub package](https://img.shields.io/pub/v/custom_checkbox.svg)](https://pub.dev/packages/custom_checkbox)
+[![pub package](https://img.shields.io/pub/v/custom_checkbox_plus.svg)](https://pub.dev/packages/custom_checkbox_plus)
 [![Flutter Platform](https://img.shields.io/badge/platform-Flutter-blue.svg)](https://flutter.dev)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
